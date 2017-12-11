@@ -41,7 +41,7 @@ CREATE TABLE `videos` (
 
 INSERT INTO `videos` (`id`, `titulo`, `descricao`, `caminho`) VALUES
 (1, 'Teste', 'Muito bom', 'desenho.mp4'),
-(3, 'Tri Campeão da América', 'Testando o video do tri campeão da américa 2017', 'videoplayback.3gpp');
+(2, 'Tri Campeão da América', 'Testando o video do tri campeão da américa 2017', 'videoplayback.3gpp');
 
 --
 -- Indexes for dumped tables
